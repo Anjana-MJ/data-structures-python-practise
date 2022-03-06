@@ -23,7 +23,7 @@ print ("lenght of the list is ", len(heros))
 # 2nd case
 heros.append('black panther')
 
-print heros
+print (heros)
 
 #3rd case
 heros.remove('black panther')

@@ -34,8 +34,8 @@ print("Exactly 2000 dollars spent in any month...? ", 2000 in all_month_expense)
 
 # 4th case
 all_month_expense.append(1980)
-print "Monthly expense from jan to june are", all_month_expense
+print ("Monthly expense from jan to june are", all_month_expense)
 
 # 5th case
 all_month_expense[3] = all_month_expense[3] - 200
-print "Monthly expense from jan to june after updating april month expense are ", all_month_expense
+print ("Monthly expense from jan to june after updating april month expense are ", all_month_expense)
